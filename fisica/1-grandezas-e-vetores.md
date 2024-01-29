@@ -22,7 +22,7 @@ Com base no **Sistema Internacional de Unidades (SI)**, criado em 1960, sete sã
 
 O vetor é um operador matemático que possui um módulo (i.e. intesidade, valor ou norma), direção e sentido.
 
-A **direção** se trata de um segmento de reta (e.g. vertical, horizontal). Enquanto o **sentido** está de acordo com a **direção**, onde cada **direção** possui dois **sentido** (e.g. p/ cima ou p/ baixo, no caso de vertical; p/ esquerda ou p/direita, no caso de horizontal).
+A **direção** se trata de um segmento de reta (e.g. vertical, horizontal). Enquanto o **sentido** está de acordo com a **direção**, onde cada **direção** possui dois **sentido** (e.g. p/ cima ou p/ baixo, no caso de vertical; p/ esquerda ou p/ direita, no caso de horizontal).
 
 ## Grandezas escalares e grandezas vetoriais
 
