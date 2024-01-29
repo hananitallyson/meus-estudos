@@ -37,11 +37,16 @@ Uma soma vetorial implica a análise da intensidade, da direção e do sentido d
 Uma soma vetorial pode ser tratada a partir dos casos particulares, que são três:
 
 1. **Os vetores possuem a mesma direção e sentido.** Neste caso, a soma vetorial se assemelha a uma soma aritimética.
-   ![Caso 1 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/caso-1-soma-vetorial.png)
+
+![Caso 1 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/caso-1-soma-vetorial.png)
+
 2. **Os vetores possuem a mesma direção, mas sentidos contrários.** Neste caso, a soma vetorial se assemelha a uma subtração aritimética.
-   ![Caso 2 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/caso-2-soma-vetorial.png)
+
+![Caso 2 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/caso-2-soma-vetorial.png)
+
 3. **Os vetores são perpendiculares.** Neste caso, o cálculo do módulo do vetor resultante é feito por meio do **Teorema de Pitágoras**.
-   ![Caso 3 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/caso-3-soma-vetorial.png)
+
+![Caso 3 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/caso-3-soma-vetorial.png)
 
 Qualquer outra situação de soma vetorial pode ser reduzida a um desses três casos particulares acima.
 
