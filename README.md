@@ -1,5 +1,5 @@
 # Meus Estudos
-Formalmente, esse repositório é o meu registro de estudos direcionados para os conteúdos de todas as quatro áreas o **ENEM** (i.e. Exame Nacional do Ensino Médio): **Ciências Humanas e suas Tecnologias**; **Ciências da Natureza e suas Tecnologias**; **Linguagens, Códigos e suas Tecnologias**; **Matemática e suas Tecnologias**.
+Formalmente, esse repositório é o meu registro de estudos direcionados para os conteúdos de todas as quatro áreas do **ENEM** (i.e. Exame Nacional do Ensino Médio): **Ciências Humanas e suas Tecnologias**; **Ciências da Natureza e suas Tecnologias**; **Linguagens, Códigos e suas Tecnologias**; **Matemática e suas Tecnologias**.
 
 ## 📝 Guias de Conteúdo
 Os conteúdos estão separados por meio das pastas do repositório. Dentro de cada pasta há um arquivo Markdown que servirá como guia dos conteúdos daquela pasta especifica.
