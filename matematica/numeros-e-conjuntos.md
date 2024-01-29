@@ -72,7 +72,7 @@ Quando relacionamos dois conjuntos, usamos as notações "⊂", "⊄", "⊃" e "
 
 ### Subconjunto e relação de igualdade
 
-Dizemos que um conjunto N é subconjunto do conjunto M se, e somente se, N está contido em M (i.e. N ⊂ M). E dizemos que N é igual a M se, e somente se, N é subconjunto de M, e M é subconjunto de N (i.e. N ⊂ M e M ⊂ N, N = M).
+Dizemos que um conjunto N é subconjunto do conjunto M se, e somente se, N está contido em M (i.e. N ⊂ M). E dizemos que N é igual a M se, e somente se, N é subconjunto de M, e M é subconjunto de N (i.e. N ⊂ M e M ⊂ N, então N = M).
 
 ## Operações com conjuntos
 
