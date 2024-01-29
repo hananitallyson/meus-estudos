@@ -87,6 +87,8 @@ M = {0, 1, 3, 5}
 N ∪ M = {0, 1, 2, 3, 4, 5}
 ```
 
+![Diagrama de união de conjuntos](https://github.com/hananitallyson/meus-estudos/blob/main/matematica/img/diagrama-uniao-conjuntos.png)
+
 A **intersecção** entre dois conjuntos é um conjunto formado por elementos que estão em N **e** M, simultaneamente (i.e. N ∩ M).
 
 ```
@@ -95,6 +97,8 @@ M = {2, 3, 4, 5}
 
 N ∩ M = {3, 5}
 ```
+
+![Diagrama de intersecção de conjuntos](https://github.com/hananitallyson/meus-estudos/blob/main/matematica/img/diagrama-interseccao-conjuntos.png)
 
 Se N ∩ M = Ø, então M e N são denominados **conjuntos disjuntos**.
 
@@ -106,6 +110,8 @@ N = {0, 1, 3, 5}
 
 M – N = {2, 4}
 ```
+
+![Diagrama de diferença de conjuntos](https://github.com/hananitallyson/meus-estudos/blob/main/matematica/img/diagrama-diferenca-conjuntos.png)
 
 ---
 
