@@ -106,3 +106,8 @@ N = {0, 1, 3, 5}
 
 M – N = {2, 4}
 ```
+
+---
+
+## Referências
+Bosquilha, Alessandra; Amaral, João Tomás do; Miranda, Mônica. Manual compacto de matemática: ensino fundamental. 1. ed. São Paulo: Rideel, 2010.
