@@ -28,7 +28,7 @@ Consideramos dois números a, b ∈ N. Se existir um c ∈ N de modo que b + c =
 
 ```
   225 > Minuendo
-+  13 > Subtraendo
+-  13 > Subtraendo
 -----
   212 > Diferença ou resto
 ```
