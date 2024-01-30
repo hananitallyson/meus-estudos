@@ -115,7 +115,7 @@ M – N = {2, 4}
 
 ---
 
-- [⬅️ Anterior](guia-de-matematica,md) - [Guia 📝](guia-de-matematica.md) - [Próximo ➡️](2-operacao-de-numeros-naturais.md)
+- [⬅️ Anterior](guia-de-matematica.md) - [Guia 📝](guia-de-matematica.md) - [Próximo ➡️](2-operacao-de-numeros-naturais.md)
 
 ## Referências
 
