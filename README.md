@@ -4,7 +4,7 @@ Formalmente, esse repositório é o meu registro de estudos direcionados para os
 
 ## 📝 Guias de Conteúdo
 
-Os conteúdos estão separados por meio das pastas do repositório. Dentro de cada pasta há um arquivo Markdown que servirá como guia dos conteúdos daquela pasta especifica.
+Os conteúdos estão separados por meio das pastas do repositório. Dentro de cada pasta há um arquivo Markdown que servirá como guia dos conteúdos daquela pasta especifica. Abaixo, os guias de cada matéria.
 
 - [Guia de Matemática](/matematica/guia-de-matematica.md)
 - [Guia de Física](/fisica/guia-de-fisica.md)
