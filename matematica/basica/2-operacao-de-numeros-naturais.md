@@ -33,7 +33,7 @@ Consideramos dois números a, b ∈ N. Se existir um c ∈ N de modo que b + c =
   212 > Diferença ou resto
 ```
 
-Se fizermos a diferença somada com o subtraendo, obtemos o minuendo. Logo, a subtração é a operação inversa da adição. É a sua **prova real**.
+Se fizermos a diferença somada com o subtraendo, obtemos o minuendo. Logo, a subtração é a operação inversa da adição. É a sua **prova real** (i.e. uma operação matemática realizada para provar que outra operação está correta).
 
 As propriedades **comutativa**, **associativa** e o **elemento neutro** não se aplicam à subtração, uma vez que:
 1. a - b ≠ b - a
@@ -47,3 +47,5 @@ As propriedades **comutativa**, **associativa** e o **elemento neutro** não se 
 ## Referências
 
 Bosquilha, Alessandra; Amaral, João Tomás do; Miranda, Mônica. Manual compacto de matemática: ensino fundamental. 1. ed. São Paulo: Rideel, 2010.
+
+Wikipedia. (s.d.). Prova Real. [https://pt.wikipedia.org/wiki/Prova_real]
