@@ -12,6 +12,8 @@ Com o passar do tempo, as águas e oceanos foram transformando-se em verdadeiros
 
 De acordo com Oparin e Haldane, elaboradores dessa hipótese, afirmaram que os coacervatos deram origem a compostos mais complexos.
 
+![Caso 3 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/biologia/img/formacao-de-moleculas-terra-primitiva.png)
+
 ## Teorias da abiogênese e biogênese
 
 A **abiogênese** defende que os seres vivos podem surgir espontaneamente da matéria bruta. Ela foi definida há anos atrás por Aristóteles e era aceita até meados do século XIX. Um dos seus principais defensores era o biólogo **John Needham**.
