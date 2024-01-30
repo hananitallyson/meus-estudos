@@ -13,7 +13,7 @@ Os conteúdos estão separados por meio das pastas do repositório. Dentro de ca
 
 Frequentemente, vocês verão certos termos e abreviações que serão utilizadas dentro das explicações dos conteúdos, e para facilitar o entendimento, deixarei os principais termos explicados aqui neste glossário.
 
-1. **(e.g.) / (i.e.):** Geralmente entre parênteses, a abreviatura “e.g.” representa a expressão latina exempli gratia, que significa “por exemplo”, enquanto “i.e.” representa a expressão latina id est, que significa “isto é”, “ou seja”.
+* **(e.g.) / (i.e.):** Geralmente entre parênteses, a abreviatura “e.g.” representa a expressão latina exempli gratia, que significa “por exemplo”, enquanto “i.e.” representa a expressão latina id est, que significa “isto é”, “ou seja”.
 
 ## 📕 Referências
 
