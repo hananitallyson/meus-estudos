@@ -35,4 +35,7 @@ Consideramos dois números a, b ∈ N. Se existir um c ∈ N de modo que b + c =
 
 Se fizermos a diferença somada com o subtraendo, obtemos o minuendo. Logo, a subtração é a operação inversa da adição. É a sua **prova real**.
 
-As propriedades **comutativa**, **associativa** e o **elemento neutro** não se aplicam à subtração, uma vez que a - b ≠ b - a, (a - b) - c ≠ a - (b - c), e a - 0 ≠ 0 - a.
+As propriedades **comutativa**, **associativa** e o **elemento neutro** não se aplicam à subtração, uma vez que:
+1. a - b ≠ b - a
+2. (a - b) - c ≠ a - (b - c)
+3. a - 0 ≠ 0 - a.
