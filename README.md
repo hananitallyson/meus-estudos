@@ -18,3 +18,5 @@ Frequentemente, vocês verão certos termos e abreviações que serão utilizada
 ## 📕 Referências
 
 Todas as referências utilizadas são listadas no final de cada capítulo. Lá estarão os livros, vídeos, websites, etc.
+
+Dentre os materiais usados, a série de livros **Manual Compacto** da **Rideel** foi a principal, por isso, segue o link para o acesso gratuito de seus livros: [Manuais Compactos Rideel - PDF](https://www.leonardoportal.com/p/manuais-compactos-rideel-pdf.html).
