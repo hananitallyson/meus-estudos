@@ -9,7 +9,7 @@ Os conteúdos estão separados por meio das pastas do repositório. Dentro de ca
 - [Guia de Matemática](/matematica/guia-de-matematica.md)
 - [Guia de Física](/fisica/guia-de-fisica.md)
 - [Guia de Biologia](/biologia/guia-de-biologia.md)
-- [Guia de Química](/biologia/guia-de-quimica.md)
+- [Guia de Química](/quimica/guia-de-quimica.md)
 
 ## 📖 Glossário
 
