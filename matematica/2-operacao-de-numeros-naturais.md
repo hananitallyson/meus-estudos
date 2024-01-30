@@ -39,3 +39,9 @@ As propriedades **comutativa**, **associativa** e o **elemento neutro** não se 
 1. a - b ≠ b - a
 2. (a - b) - c ≠ a - (b - c)
 3. a - 0 ≠ 0 - a.
+
+---
+
+## Referências
+
+Bosquilha, Alessandra; Amaral, João Tomás do; Miranda, Mônica. Manual compacto de matemática: ensino fundamental. 1. ed. São Paulo: Rideel, 2010.
