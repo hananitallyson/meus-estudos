@@ -6,6 +6,9 @@ Formalmente, esse repositório é o meu registro de estudos direcionados para os
 
 Os conteúdos estão separados por meio das pastas do repositório. Dentro de cada pasta há um arquivo Markdown que servirá como guia dos conteúdos daquela pasta especifica.
 
+- [Guia de Matemática](/matematica/guia-de-matematica.md)
+- [Guia de Física](/fisica/guia-de-fisica.md)
+
 ## 📖 Glossário
 
 Frequentemente, vocês verão certos termos e abreviações que serão utilizadas dentro das explicações dos conteúdos, e para facilitar o entendimento, deixarei os principais termos explicados aqui neste glossário.
