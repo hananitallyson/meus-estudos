@@ -52,7 +52,7 @@ Qualquer outra situação de soma vetorial pode ser reduzida a um desses três c
 
 ---
 
-- [Guia 📝](guia-de-fisica.md) - [Próximo ➡️](1-grandezas-e-vetores.md)
+- [Guia 📝](../guia-de-fisica.md) - [Próximo ➡️](1-grandezas-e-vetores.md)
 
 ## Referências
 

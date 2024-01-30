@@ -42,7 +42,7 @@ As propriedades **comutativa**, **associativa** e o **elemento neutro** não se 
 
 ---
 
-- [⬅️ Anterior](1-numeros-e-conjuntos.md) - [Guia 📝](guia-de-matematica.md) - [Próximo ➡️](2-operacao-de-numeros-naturais.md)
+- [⬅️ Anterior](1-numeros-e-conjuntos.md) - [Guia 📝](../guia-de-matematica.md) - [Próximo ➡️](2-operacao-de-numeros-naturais.md)
 
 ## Referências
 
