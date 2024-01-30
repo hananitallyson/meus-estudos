@@ -52,6 +52,8 @@ Qualquer outra situação de soma vetorial pode ser reduzida a um desses três c
 
 ---
 
+- [Guia 📝](guia-de-fisica.md) - [Próximo ➡️](1-grandezas-e-vetores.md)
+
 ## Referências
 
 Scarpellini, Carminella; Andreatta, Vinícius Barbosa. Manual compacto de física: ensino médio. 1. ed. São Paulo: Rideel, 2012.
