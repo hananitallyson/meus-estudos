@@ -1,6 +1,6 @@
 # 📝 Guia de Biologia
 
-## Biologia Geral (Ensino Fundamental e Médio)
+## Biologia Básica
 
-1. [O que é a biologia?](./geral/1-o-que-e-biologia.md)
-2. [Origem da vida](./geral/2-origem-da-vida.md)
+1. [O que é a biologia?](./basica/1-o-que-e-biologia.md)
+2. [Origem da vida](./basica/2-origem-da-vida.md)

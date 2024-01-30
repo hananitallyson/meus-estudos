@@ -42,18 +42,18 @@ Conjunto de todos os processos pelos quais os seres vivos passam ao longo do tem
 
 Toda matéria orgânica ou inorgânica é formada por átomos. Dois ou mais átomos se unem para formar uma molécula. Dessa forma, seguem os níveis, que ao todo são doze:
 
-1. Átomo
-2. Molécula
-3. Organela
-4. Célula
-5. Tecido
-6. Órgão
-7. Sistema
-8. Organismo
-9. População
-10. Comunidade
-11. Ecossistema
-12. Biosfera
+1. **Átomo**
+2. **Molécula**
+3. **Organela**
+4. **Célula**
+5. **Tecido**
+6. **Órgão**
+7. **Sistema**
+8. **Organismo**
+9. **População**
+10. **Comunidade**
+11. **Ecossistema**
+12. **Biosfera**
 
 ---
 
