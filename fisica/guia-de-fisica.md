@@ -2,4 +2,4 @@
 
 ## Física Geral (Ensino Médio)
 
-1. [Grandezas e Vetores](1-grandezas-e-vetores.md)
+1. [Grandezas e Vetores](./geral/1-grandezas-e-vetores.md)
