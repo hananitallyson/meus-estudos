@@ -129,7 +129,7 @@ A chamada notação científica. São as potências cuja base é o numeral 10 (i
 
 ## Radiciação de números naturais
 
-A ridiciação é a **operação inversão** da potenciacão. De modo que:
+A radiciação é a **operação inversão** da potenciacão. De modo que:
 
 ```
   aⁿ = A 🠖 ⁿ√A = a
