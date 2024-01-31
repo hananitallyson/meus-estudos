@@ -15,7 +15,7 @@ Os conteúdos estão separados por meio das pastas do repositório. Dentro de ca
 
 Frequentemente, vocês verão certos termos e abreviações que serão utilizadas dentro das explicações dos conteúdos, e para facilitar o entendimento, deixarei os principais termos explicados aqui neste glossário.
 
-- **(e.g.) / (i.e.) —** Geralmente entre parênteses, a abreviatura “e.g.” representa a expressão latina exempli gratia, que significa “por exemplo”, enquanto “i.e.” representa a expressão latina id est, que significa “isto é”, “ou seja”. Uma vírgula sempre segue a abreviatura.
+- **e.g. / i.e. —** Geralmente entre parênteses, a abreviatura “e.g.” representa a expressão latina exempli gratia, que significa “por exemplo”, enquanto “i.e.” representa a expressão latina id est, que significa “isto é”, “ou seja”. Uma vírgula sempre segue a abreviatura.
 - **et al. —** Sempre digitada com espaço entre as duas palavras e com ponto final após o "l", "et al." do latim et alii, significa literalmente "e outros". Uma vírgula não segue a abreviatura, a menos que a gramática da frase assim o exija.
 
 ## 📕 Referências
