@@ -10,6 +10,8 @@ Os conteúdos estão separados por meio das pastas do repositório. Dentro de ca
 - [Guia de Física](/fisica/guia-de-fisica.md)
 - [Guia de Biologia](/biologia/guia-de-biologia.md)
 - [Guia de Química](/quimica/guia-de-quimica.md)
+- [Guia de História](/historia/guia-de-historia.md)
+- [Guia de Geografia](/geografia/guia-de-geografia.md)
 
 ## 📖 Glossário
 
@@ -17,7 +19,7 @@ Frequentemente, certos termos e abreviações serão utilizados dentro das expli
 
 - **e.g. / i.e. —** Geralmente entre parênteses, a abreviatura “e.g.” representa a expressão latina _exempli gratia_, que significa “por exemplo”, enquanto “i.e.” representa a expressão latina id est, que significa “isto é”, “ou seja”. Uma vírgula sempre segue a abreviatura.
 - **et al. —** Sempre digitada com espaço entre as duas palavras e com ponto final após o "l", "et al." do latim _et alii_, significa literalmente "e outros". Uma vírgula não segue a abreviatura, a menos que a gramática da frase assim o exija.
-- **etc. —** Usado para mostrar que uma lista de pelo menos dois itens está incompleta e é originado do latim _et cetera_,  significa "e outras coisas". A lista pode incluir coisas ou pessoas. A abreviatura deve sempre ser precedida por uma vírgula.
+- **etc. —** Usado para mostrar que uma lista de pelo menos dois itens está incompleta e é originado do latim _et cetera_, significa "e outras coisas". A lista pode incluir coisas ou pessoas. A abreviatura deve sempre ser precedida por uma vírgula.
 
 ## 📕 Referências
 
