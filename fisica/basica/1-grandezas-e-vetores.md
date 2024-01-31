@@ -2,7 +2,7 @@
 
 ## Grandezas Físicas
 
-Grandeza é um qualidade daquilo que pode ser medido. Ou seja, pode-se estabelecer uma **intensidade** (i.e. ter um valor quantificável).
+Grandeza é um qualidade daquilo que pode ser medido. Ou seja, pode-se estabelecer uma **intensidade** (i.e., ter um valor quantificável).
 
 Toda grandeza possui uma **intensidade**, isto é, pode ser traduzida por um valor numérico acompanhado de uma unidade de medida.
 
@@ -20,15 +20,15 @@ Com base no **Sistema Internacional de Unidades (SI)**, criado em 1960, sete sã
 
 ## Vetores
 
-O vetor é um operador matemático que possui um módulo (i.e. intesidade, valor ou norma), direção e sentido.
+O vetor é um operador matemático que possui um módulo (i.e., intesidade, valor ou norma), direção e sentido.
 
-A **direção** se trata de um segmento de reta (e.g. vertical, horizontal). Enquanto o **sentido** está de acordo com a **direção**, onde cada **direção** possui dois **sentido** (e.g. p/ cima ou p/ baixo, no caso de vertical; p/ esquerda ou p/ direita, no caso de horizontal).
+A **direção** se trata de um segmento de reta (e.g., vertical, horizontal). Enquanto o **sentido** está de acordo com a **direção**, onde cada **direção** possui dois **sentido** (e.g., p/ cima ou p/ baixo, no caso de vertical; p/ esquerda ou p/ direita, no caso de horizontal).
 
 ## Grandezas escalares e grandezas vetoriais
 
-Grandezas escalares são aquelas que ficam perfeitamente definidas apenas por sua intensidade e unidade (e.g. tempo, massa, temperatura).
+Grandezas escalares são aquelas que ficam perfeitamente definidas apenas por sua intensidade e unidade (e.g., tempo, massa, temperatura).
 
-Grandezas vetoriais são aquelas que para ficarem perfeitamente definidas necessitam de uma direção e um sentido, além da intensidade e unidade (e.g. força, velocidade, deslocamento).
+Grandezas vetoriais são aquelas que para ficarem perfeitamente definidas necessitam de uma direção e um sentido, além da intensidade e unidade (e.g., força, velocidade, deslocamento).
 
 ## Soma vetorial
 
