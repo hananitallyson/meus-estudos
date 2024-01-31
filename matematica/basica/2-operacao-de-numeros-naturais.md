@@ -16,11 +16,11 @@ Formalmente, temos que, para todo a, b ∈ N, existe um único número c ∈ N, 
 A adição possui três propriedades: **comutativa**, **associativa** e **elemento neutro**.
 
 1. **Comutativa**: Para todo a, b ∈ N, temos que a + b = b + a.
-    * e.g. 3 + 5 = 5 + 3 = 8
+    * e.g., 3 + 5 = 5 + 3 = 8
 2. **Associativa**: Para todo a, b, c ∈ N, temos que (a + b) + c = a + (b + c).
-    * e.g. (12 + 4) + 3 = 12 + (4 + 3) = 19
+    * e.g., (12 + 4) + 3 = 12 + (4 + 3) = 19
 3. **Elemento neutro**: Existe o elemento neutro aditivo em N, que é o zero, de modo que para todo a ∈ N, temos que a + 0 = 0 + a.
-    * e.g. 9 + 0 = 0 + 9 = 9
+    * e.g., 9 + 0 = 0 + 9 = 9
 
 ## Subtração de números naturais
 
@@ -33,7 +33,7 @@ Consideramos dois números a, b ∈ N. Se existir um c ∈ N de modo que b + c =
   212 > Diferença ou resto
 ```
 
-Se fizermos a diferença somada com o subtraendo, obtemos o minuendo. Logo, a subtração é a operação inversa da adição. É a sua **prova real** (i.e. uma operação matemática realizada para provar que outra operação está correta).
+Se fizermos a diferença somada com o subtraendo, obtemos o minuendo. Logo, a subtração é a operação inversa da adição. É a sua **prova real** (i.e., uma operação matemática realizada para provar que outra operação está correta).
 
 As propriedades **comutativa**, **associativa** e o **elemento neutro** não se aplicam à subtração, uma vez que:
 1. a - b ≠ b - a
