@@ -2,7 +2,7 @@
 
 ## O que é substância e mistura?
 
-Toda matéria pode se apresentar de forma **pura** ou **não pura**. Algo que seja verdadeiramente e quimicamente puro recebe o nome de **substância**. Enquanto um corpo ou amostra que possui mais de um componente (i.e. diferentes substâncias), este é denominado de **mistura**.
+Toda matéria pode se apresentar de forma **pura** ou **não pura**. Algo que seja verdadeiramente e quimicamente puro recebe o nome de **substância**. Enquanto um corpo ou amostra que possui mais de um componente (i.e., diferentes substâncias), este é denominado de **mistura**.
 
 ---
 
