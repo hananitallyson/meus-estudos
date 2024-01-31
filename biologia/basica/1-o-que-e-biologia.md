@@ -8,11 +8,11 @@ A vida é definida por meio de características ausentes nos seres não vivos. A
 
 ### Composição química
 
-Todos os seres vivos são formados por substâncias químicas semelhantes, sejam **orgânicas** (i.e. formados por moléculas cujo o principal elemento químico é o carbono) ou **inorgânicas** (i.e. formados por moléculas que não possuem o carbono como principal elemento químico).
+Todos os seres vivos são formados por substâncias químicas semelhantes, sejam **orgânicas** (i.e., formados por moléculas cujo o principal elemento químico é o carbono) ou **inorgânicas** (i.e., formados por moléculas que não possuem o carbono como principal elemento químico).
 
 ### Organização celular
 
-Todos os seres vivos são formados por células. Alguns são formados por uma única célula: os **unicelulares** (e.g. protozoários, bactérias); e a maioria é composta por muitas células: os **pluricelulares** (e.g. animais e plantas).
+Todos os seres vivos são formados por células. Alguns são formados por uma única célula: os **unicelulares** (e.g., protozoários, bactérias); e a maioria é composta por muitas células: os **pluricelulares** (e.g., animais e plantas).
 
 ### Crescimento
 
@@ -20,19 +20,19 @@ O aumento do volume de um corpo nos permite dizer que ele cresceu. Nos seres viv
 
 ### Reprodução
 
-Os seres vivos são capazes de dar origem a seres semelhantes a eles. A reprodução pode ser **assexuada**, quando não envolve a união de **gametas** (i.e. células reprodutivas, que são os óvulos e os espermatozoides), ou **sexuada**, quando envolve união de gametas.
+Os seres vivos são capazes de dar origem a seres semelhantes a eles. A reprodução pode ser **assexuada**, quando não envolve a união de **gametas** (i.e., células reprodutivas, que são os óvulos e os espermatozoides), ou **sexuada**, quando envolve união de gametas.
 
 ### Metabolismo
 
-São todas as atividades químicas existentes no organismo que garatem as necessidades estruturais e energéticas de um ser vivo. O metabolismo possui duas etapas, que são: **catabolismo** (i.e. a quebra das substâncias ingeridas, com liberação de energia e sobra de resíduos) e **anabolismo** (i.e. utilização da energia produzida para reparação, multiplicação, crescimento e as demais atividades celulares).
+São todas as atividades químicas existentes no organismo que garatem as necessidades estruturais e energéticas de um ser vivo. O metabolismo possui duas etapas, que são: **catabolismo** (i.e., a quebra das substâncias ingeridas, com liberação de energia e sobra de resíduos) e **anabolismo** (i.e., utilização da energia produzida para reparação, multiplicação, crescimento e as demais atividades celulares).
 
 ### Homeostase
 
-É a capacidade do organismo de manter o equilíbrio em seu meio interno (e.g. a manutenção da temperatura do corpo humano).
+É a capacidade do organismo de manter o equilíbrio em seu meio interno (e.g., a manutenção da temperatura do corpo humano).
 
 ### Reações a estímulos do ambiente
 
-Todo ser vivo tem reações ao meio ambiente (e.g. dilatação da pupila em ambiente com pouquíssima iluminação).
+Todo ser vivo tem reações ao meio ambiente (e.g., dilatação da pupila em ambiente com pouquíssima iluminação).
 
 ### Evolução
 
