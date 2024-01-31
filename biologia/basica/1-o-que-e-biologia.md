@@ -8,7 +8,7 @@ A vida é definida por meio de características ausentes nos seres não vivos. A
 
 ### Composição química
 
-Todos os seres vivos são formados por substâncias químicas semelhantes, sejam **orgânicas** ou **inorgânicas**.
+Todos os seres vivos são formados por substâncias químicas semelhantes, sejam **orgânicas** (i.e. formados por moléculas cujo o principal elemento químico é o carbono) ou **inorgânicas** (i.e. formados por moléculas que não possuem o carbono como principal elemento químico).
 
 ### Organização celular
 
@@ -66,3 +66,5 @@ Boschilia, Cleuza. Manual compacto de biologia. 1. ed. São Paulo: Rideel, 2010.
 Biologia com Samuel Cunha. 4 de Fevereiro, 2019. INTRODUÇÃO À BIOLOGIA | Biologia com Samuel Cunha. [https://youtu.be/eFKBRvEs8lU].
 
 Prepara Enem. (s.d.). Níveis de Organização em Biologia. [https://www.preparaenem.com/biologia/niveis-de-organizacao-em-biologia.htm#:~:text=Os%20n%C3%ADveis%20de%20organiza%C3%A7%C3%A3o%20em,biol%C3%B3gica%20existente%20no%20planeta%20Terra].
+
+Brasil Escola. (s.d.). Substâncias Naturais. [https://brasilescola.uol.com.br/quimica/substancias-naturais.htm#:~:text=Subst%C3%A2ncias%20org%C3%A2nicas%3A%20possuem%20mol%C3%A9culas%20cujo,principal%20elemento%20de%20sua%20composi%C3%A7%C3%A3o].
