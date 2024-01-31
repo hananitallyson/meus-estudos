@@ -4,13 +4,13 @@
 
 Número é uma ideia. Quando usamos um símbolo para representar essa ideia, passamos a ter um numeral.
 
-Um **sistema de numeração** nada mais é que um conjunto de símbolos que representam a ideia de números (e.g. o sistema de numeração romano, ou o sistema de numeração decimal).
+Um **sistema de numeração** nada mais é que um conjunto de símbolos que representam a ideia de números (e.g., o sistema de numeração romano, ou o sistema de numeração decimal).
 
 ## Conjuntos e suas linguagens
 
-Conjunto é todo agrupamento de qualquer tipo e quantidade de coisas (e.g. o conjunto de dias da semana).
+Conjunto é todo agrupamento de qualquer tipo e quantidade de coisas (e.g., o conjunto de dias da semana).
 
-Elemento é qualquer um dos objetos que compõem o conjunto (e.g. quinta-feira é um elemento do conjunto dos dias da semana).
+Elemento é qualquer um dos objetos que compõem o conjunto (e.g., quinta-feira é um elemento do conjunto dos dias da semana).
 
 A **representação dos conjuntos** é dada por uma letra maiúscula do nosso alfabeto, seguida de chaves, onde os elementos são discriminados e separados por vírgula...
 
@@ -72,13 +72,13 @@ Quando relacionamos dois conjuntos, usamos as notações "⊂", "⊄", "⊃" e "
 
 ### Subconjunto e relação de igualdade
 
-Dizemos que um conjunto N é subconjunto do conjunto M se, e somente se, N está contido em M (i.e. N ⊂ M). E dizemos que N é igual a M se, e somente se, N é subconjunto de M, e M é subconjunto de N (i.e. N ⊂ M e M ⊂ N, então N = M).
+Dizemos que um conjunto N é subconjunto do conjunto M se, e somente se, N está contido em M (i.e., N ⊂ M). E dizemos que N é igual a M se, e somente se, N é subconjunto de M, e M é subconjunto de N (i.e., N ⊂ M e M ⊂ N, então N = M).
 
 ## Operações com conjuntos
 
 Existem três tipos de operações com conjuntos: **união**, **intersecção** e **diferença**.
 
-A **união** entre dois conjuntos é um conjunto formado por elementos de N **ou** M, ou seja, a união entre N e M (i.e. N ∪ M).
+A **união** entre dois conjuntos é um conjunto formado por elementos de N **ou** M, ou seja, a união entre N e M (i.e., N ∪ M).
 
 ```
 N = {2, 3, 4, 5}
@@ -89,7 +89,7 @@ N ∪ M = {0, 1, 2, 3, 4, 5}
 
 ![Diagrama de união de conjuntos](https://github.com/hananitallyson/meus-estudos/blob/main/matematica/img/diagrama-uniao-conjuntos.png)
 
-A **intersecção** entre dois conjuntos é um conjunto formado por elementos que estão em N **e** M, simultaneamente (i.e. N ∩ M).
+A **intersecção** entre dois conjuntos é um conjunto formado por elementos que estão em N **e** M, simultaneamente (i.e., N ∩ M).
 
 ```
 N = {2, 3, 4, 5}
@@ -102,7 +102,7 @@ N ∩ M = {3, 5}
 
 Se N ∩ M = Ø, então M e N são denominados **conjuntos disjuntos**.
 
-A **diferença** entre dois conjuntos é um conjunto formado por elementos que **pertencem** a M **e não pertence** a N (i.e. M – N).
+A **diferença** entre dois conjuntos é um conjunto formado por elementos que **pertencem** a M **e não pertence** a N (i.e., M – N).
 
 ```
 M = {2, 3, 4, 5}
