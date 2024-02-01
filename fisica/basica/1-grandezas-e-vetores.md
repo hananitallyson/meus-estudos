@@ -9,7 +9,7 @@ Toda grandeza possui uma **intensidade**, isto é, pode ser traduzida por um val
 Com base no **Sistema Internacional de Unidades (SI)**, criado em 1960, sete são as unidades básicas.
 
 | Grandeza                  | Unidade    | Símbolo |
-| ------------------------- | ---------- | ------- |
+| :------------------------ | :--------- | :------ |
 | Comprimento               | metro      | m       |
 | Massa                     | quilograma | kg      |
 | Tempo                     | segundo    | s       |
