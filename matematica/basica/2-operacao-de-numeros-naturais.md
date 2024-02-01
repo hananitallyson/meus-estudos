@@ -58,6 +58,8 @@ x  13 > Multiplicador
  1131 > Produto
 ```
 
+### Propriedades da multiplicação
+
 A multiplicação possui quatro propriedades: **comutativa**, **associativa**, **elemento neutro** e **distributiva**. As propriedades **comutativa** e **associativa** funcionam como na adição (i.e., a x b = b x a; (a x b) x c = a x (b x c)).
 
 O **elemento neutro** da multiplicação é 1, tal que qualquer número natural multiplicado por 1 é sempre o próprio número (i.e., 1 x a = a x 1, onde a ∈ N).
