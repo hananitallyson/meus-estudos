@@ -140,7 +140,7 @@ A radiciação é a **operação inversão** da potenciacão. De modo que:
 Cada elemento possui um nome específico:
 
 | Elemento | Nome            |
-| -------- | --------------- |
+| :------- | :-------------- |
 | n        | Índice da raiz  |
 | A        | Radicando       |
 | a        | Raiz            |
@@ -151,7 +151,7 @@ Cada elemento possui um nome específico:
 A resolução de uma expressão aritmética se faz na seguinte ordem, de cima para baixo:
 
 | Ordem | Símbolos      | Operação                  |
-| ----- | ------------- | ------------------------- |
+| :---- | :------------ | :------------------------ |
 | 1°    | Parenteses () | Potenciação ou radiciação |
 | 2°    | Colchetes []  | Multiplicação ou divisão  |
 | 3°    | Chaves {}     | Adição e subtração        |
