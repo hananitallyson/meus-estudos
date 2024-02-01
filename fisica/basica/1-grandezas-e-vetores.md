@@ -1,4 +1,4 @@
-# Cap. 1 - Grandezas e Vetores
+# Cap. 1 - Grandezas e vetores
 
 ## Grandezas Físicas
 
@@ -50,9 +50,17 @@ Uma soma vetorial pode ser tratada a partir dos casos particulares, que são tr�
 
 Qualquer outra situação de soma vetorial pode ser reduzida a um desses três casos particulares acima.
 
+## Decomposição de vetores
+
+A decomposição de um vetor consiste em determinar as suas projeções em um par de eixos cartesianos:
+
+![Caso 3 Soma de Vetorial](https://github.com/hananitallyson/meus-estudos/blob/main/fisica/img/decomposicao-de-vetores-plano.png)
+
+Onde, ax = a x cos θ e ay = a x sen θ.
+
 ---
 
-- [Guia 📝](../guia-de-fisica.md) - [Próximo ➡️](1-grandezas-e-vetores.md)
+- [Guia 📝](../guia-de-fisica.md) - [Próximo ➡️](2-analise-dimensional.md)
 
 ## Referências
 
