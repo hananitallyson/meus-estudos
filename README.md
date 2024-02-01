@@ -12,6 +12,7 @@ Os conteúdos estão separados por meio das pastas do repositório e são adicio
 - [Guia de Química](/quimica/guia-de-quimica.md)
 - [Guia de História](/historia/guia-de-historia.md)
 - [Guia de Geografia](/geografia/guia-de-geografia.md)
+- [Guia de Português](/portugues/guia-de-portugues.md)
 
 ## 📖 Glossário
 
