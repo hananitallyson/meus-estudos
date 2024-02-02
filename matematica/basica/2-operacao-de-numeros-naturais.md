@@ -158,7 +158,7 @@ A resolução de uma expressão aritmética se faz na seguinte ordem, de cima pa
 
 ---
 
-- [⬅️ Anterior](1-numeros-e-conjuntos.md) - [Guia 📝](../guia-de-matematica.md) - [Próximo ➡️](2-operacao-de-numeros-naturais.md)
+- [⬅️ Anterior](1-numeros-e-conjuntos.md) - [Guia 📝](../guia-de-matematica.md) - [Próximo ➡️](3-divisor-de-um-numero.md)
 
 ## Referências
 
