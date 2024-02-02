@@ -1,6 +1,6 @@
 # Cap. 4 - Números fracionários
 
-## O que é fração
+## O que é fração?
 
 Uma fração é a representação de uma ou mais partes iguais de um inteiro (e.g., ½ ou um meio). Por sua vez, todo "objeto original" que não tenha sido dividido é um **inteiro**.
 
