@@ -117,12 +117,12 @@ M – N = {2, 4}
 
 Na matemática os números são organizados em conjuntos que foram sendo descobertos com decorrer do tempo. Esses conjuntos poderão ser explorados em conteúdos mais a frente.
 
-- Números naturais (ℕ)
-- Números inteiros (ℤ)
-- Números racionais (ℚ)
-- Números irracionais
-- Números reias (ℝ)
-- Números complexos (ℂ)
+- Números naturais (N)
+- Números inteiros (Z)
+- Números racionais (Q)
+- Números irracionais (I)
+- Números reias (R)
+- Números complexos (C)
 
 ---
 
