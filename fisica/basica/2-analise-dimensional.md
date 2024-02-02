@@ -8,7 +8,7 @@ Na **mecânica**: **massa** (M), **comprimento** (L) e **tempo** (T). Na **termo
 
 As demais grandezas são chamadas de **grandezas derivadas** e todas elas podem ser relacionadas às **grandezas primitivas**.
 
-As **fórmulas dimensionais** relacionam as femais grandezas com as primitivas a partir de uma combinação e grandezas, onde cada uma dessas grandezas é elevada a um expoente conviniente.
+As **fórmulas dimensionais** relacionam as demais grandezas com as primitivas a partir de uma combinação de grandezas, onde cada uma dessas grandezas é elevada a um expoente conviniente.
 
 - **Grandeza física da mecânica:** [G] = M^α x L^β x T^γ.
 - **Grandeza física da termologia:** [G] = M^α x L^β x T^γ x θ^φ.
@@ -19,7 +19,7 @@ Se uma grandeza não precisar de uma das grandezas primitivas, seu expoente equi
 ## Alguns fórmulas dimensionais
 
 | Grandeza           | Fórmula dimensional |
-| ------------------ | ------------------- |
+| :----------------- | :------------------ |
 | Deslocamento       | [l] = L             |
 | Intervalo de tempo | [t] = T             |
 | Velocidade         | [v] = L.T⁻¹         |

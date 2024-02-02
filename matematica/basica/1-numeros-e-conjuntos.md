@@ -113,6 +113,17 @@ M – N = {2, 4}
 
 ![Diagrama de diferença de conjuntos](https://github.com/hananitallyson/meus-estudos/blob/main/matematica/img/diagrama-diferenca-conjuntos.png)
 
+## Conjuntos numéricos
+
+Na matemática os números são organizados em conjuntos que foram sendo descobertos com decorrer do tempo. Esses conjuntos poderão ser explorados em conteúdos mais a frente.
+
+- Números naturais (N)
+- Números inteiros (Z)
+- Números racionais (Q)
+- Números irracionais (I)
+- Números reias (R)
+- Números complexos (C)
+
 ---
 
 - [Guia 📝](../guia-de-matematica.md) - [Próximo ➡️](2-operacao-de-numeros-naturais.md)
