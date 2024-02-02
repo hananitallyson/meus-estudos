@@ -19,7 +19,7 @@ Se uma grandeza não precisar de uma das grandezas primitivas, seu expoente equi
 ## Alguns fórmulas dimensionais
 
 | Grandeza           | Fórmula dimensional |
-| ------------------ | ------------------- |
+| :----------------- | :------------------ |
 | Deslocamento       | [l] = L             |
 | Intervalo de tempo | [t] = T             |
 | Velocidade         | [v] = L.T⁻¹         |
