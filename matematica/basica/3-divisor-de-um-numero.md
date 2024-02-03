@@ -23,7 +23,6 @@ A seguir, os principais critérios de divisibilidade dos números.
 Um número é **divisível por 2** quando o último algarismo da direita for par (i.e., formalmente, 2n, com n ∈ N).
 
 Um número é **divisível por 3** quando a soma dos valores absolutos de seus algarismos for um número divisível por 3.
-**MDC**es: a **unidade** (i.e., o número 1) e **ele mesmo**. Enquanto, é um **número compostos** todo aquele que possuir mais de dois divisores.
 
 ## Máximo divisor comum (MDC) e Menor múltiplo comum (MMC)
 
