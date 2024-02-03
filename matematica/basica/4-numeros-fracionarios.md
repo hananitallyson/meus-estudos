@@ -16,7 +16,7 @@ Existe três tipos de frações: **frações própria** (i.e., quando o numerado
 
 ### Número misto
 
-Uma fração imprópria sempre pode ser representada por uma **número misto**. Um **número misto** é um número que possui uma parte inteira e outra fracionária.
+Uma fração imprópria sempre pode ser representada por um **número misto**. Um **número misto** é um número que possui uma parte inteira e outra fracionária.
 
 ```
     5½ = 5 + ½
