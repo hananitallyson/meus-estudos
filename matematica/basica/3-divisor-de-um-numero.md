@@ -24,6 +24,12 @@ Um número é **divisível por 2** quando o último algarismo da direita for par
 
 Um número é **divisível por 3** quando a soma dos valores absolutos de seus algarismos for um número divisível por 3.
 
+## Números primos é compostos
+
+Um **número primo** é aquele que só é divisível pela unidade (i.e., o número um) e por ele mesmo.
+
+Enquanto, um **número composto** é aquele que possui mais de dois divisores.
+
 ## Máximo divisor comum (MDC) e Menor múltiplo comum (MMC)
 
 O **MDC** é o maior número da intersecção entre os conjuntos de divisores de seus números.
