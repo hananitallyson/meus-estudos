@@ -148,13 +148,15 @@ Cada elemento possui um nome específico:
 
 ## Resolução de expressões aritméticas
 
-A resolução de uma expressão aritmética se faz na seguinte ordem, de cima para baixo:
+A resolução de uma expressão aritmética se faz na seguinte ordem, a chamada PEMDAS (i.e., sigla em inglês de parênteses, expoentes, multiplicação-divisão, adição-subtração):
 
 | Ordem | Símbolos      | Operação                  |
 | :---- | :------------ | :------------------------ |
 | 1°    | Parenteses () | Potenciação ou radiciação |
 | 2°    | Colchetes []  | Multiplicação ou divisão  |
 | 3°    | Chaves {}     | Adição e subtração        |
+
+Se houver a mesma ordem de precedência, siga o cálculo da expressão da esquerda para a direita.
 
 ---
 
