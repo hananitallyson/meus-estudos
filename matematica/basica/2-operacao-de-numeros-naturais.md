@@ -148,7 +148,7 @@ Cada elemento possui um nome específico:
 
 ## Resolução de expressões aritméticas
 
-A resolução de uma expressão aritmética se faz na seguinte ordem, a chamada PEMDAS (i.e., sigla em inglês de parênteses, expoentes, multiplicação-divisão, adição-subtração):
+A resolução de uma expressão aritmética se faz na seguinte ordem, a chamada **PEMDAS** (i.e., sigla em inglês de parênteses, expoentes, multiplicação-divisão, adição-subtração):
 
 | Ordem | Símbolos      | Operação                  |
 | :---- | :------------ | :------------------------ |
