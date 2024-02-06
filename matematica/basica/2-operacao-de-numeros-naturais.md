@@ -156,6 +156,8 @@ A resolução de uma expressão aritmética se faz na seguinte ordem, a chamada 
 | 2°    | Colchetes []  | Multiplicação ou divisão  |
 | 3°    | Chaves {}     | Adição e subtração        |
 
+Primeiro, se resolve os parenteses, em seguida os colchetes, e por último, as chaves. No caso das operações, começamos pela potenciação ou radiciação, em seguida multiplicação e divisão, e por último, adição e subtração.
+
 Se houver a mesma ordem de precedência, siga o cálculo da expressão da esquerda para a direita.
 
 ---
