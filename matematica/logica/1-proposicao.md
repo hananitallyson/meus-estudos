@@ -1,6 +1,6 @@
 # Cap. 1 - Proposição
 
-## O que uma proposição?
+## O que é uma proposição?
 
 Uma **proposição** é uma sentença (i.e., uma oração) **declarativa** que pode ser classificada pelos valores lógicos de **verdadeiro** ou **falso**.
 
