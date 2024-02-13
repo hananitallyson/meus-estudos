@@ -6,7 +6,7 @@ A partir de um proposição p qualquer, sempre podemos construir outra, denomina
 
 A proposição ~p tem sempre o valor oposto de p, isto é, ~p é verdadeira quando p é falsa e ~p é falsa quando p é verdadeira.
 
-Esse critério está resumido na tabela ao lado, denominada **tabela-verdade** da proposição ~p.
+Esse critério está resumido na tabela abaixo, denominada **tabela-verdade** da proposição ~p.
 
 |  p  | ~p  |
 | :-: | :-: |
